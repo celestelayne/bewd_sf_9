@@ -1,8 +1,8 @@
 ![BEWD_Logo](../assets/BEWD_Logo.png)
 
-#Resources - Variables and Conditional Logic
+# Resources - Variables and Conditional Logic
 
-###Cheat Sheet
+### Cheat Sheet
 
 __Variables__
 
